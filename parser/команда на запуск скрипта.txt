@@ -1,1 +1,2 @@
-ruby parser/scritp.rb [сслыка на страницу с товарами] [имя файла в который надо записать]
+ruby parser/scritp.rb [СЃСЃР»С‹РєР° РЅР° СЃС‚СЂР°РЅРёС†Сѓ СЃ С‚РѕРІР°СЂР°РјРё] [РёРјСЏ С„Р°Р№Р»Р° РІ РєРѕС‚РѕСЂС‹Р№ РЅР°РґРѕ Р·Р°РїРёСЃР°С‚СЊ]
+ruby parser/script.rb https://www.petsonic.com/snacks-huesos-para-perros/ test
